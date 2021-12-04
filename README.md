@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Kumar Soni</h1>
-<h3 align="center">Coffee Addicted, Night Owl Devloper</h3>
+<h3 align="center">Coffee Addicted, Night Owl Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-4-gagan&label=Profile%20views&color=0e75b6&style=flat" alt="g-4-gagan" /> </p>
 
