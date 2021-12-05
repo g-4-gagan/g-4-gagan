@@ -16,7 +16,7 @@
 <a href="https://twitter.com/g_4_gagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="g_4_gagan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/g-4-gagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-4-gagan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16854936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16854936" height="30" width="40" /></a>
-<a href="https://kaggle.com/g-4-gagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="g-4-gagan" height="30" width="40" /></a>
+<a href="https://kaggle.com/g4gagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="g-4-gagan" height="30" width="40" /></a>
 <a href="https://instagram.com/gagan_s0ni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gagan_s0ni" height="30" width="40" /></a>
 </p>
 
