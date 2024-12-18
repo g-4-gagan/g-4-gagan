@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/g_4_gagan" target="blank"><img src="https://img.shields.io/twitter/follow/g_4_gagan?logo=twitter&style=for-the-badge" alt="g_4_gagan" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning Working on **Audio/Speech Signal Processing**
 
 - 📫 How to reach me **gagansoni4321@gmail.com**
 
